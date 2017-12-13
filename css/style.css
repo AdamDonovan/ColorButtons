@@ -1,4 +1,7 @@
 body
+#grad {
+   background: linear-gradient(to right, #70A2AB , #367C88); /* Standard syntax */
+}
 {
 	padding: 50px;
 }
