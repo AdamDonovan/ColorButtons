@@ -53,6 +53,7 @@ body
 .gray
 {
 	background-color: #82BF56;
+	opacity: 0.5;
 	border-bottom: 5px solid #669644;
 	text-shadow: 0px -2px #669644;
 }
