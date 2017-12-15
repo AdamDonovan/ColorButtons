@@ -54,8 +54,8 @@ body
 {
 	background-color: #D3D3D3;
 	opacity: 0.5;
-	border-bottom: 5px solid #669644;
-	text-shadow: 0px -2px #669644;
+	border-bottom: 5px solid #808080;
+	text-shadow: 0px -2px #808080;
 }
 
 .action-button:active
