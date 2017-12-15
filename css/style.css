@@ -13,9 +13,23 @@ body
 {
 	position: relative;
 	padding: 10px 40px;
-  margin: 0px 10px 10px 0px;
-  float: left;
+  	margin: 0px 10px 10px 0px;
+  	float: left;
 	border-radius: 10px;
+	font-family: 'Pacifico', cursive;
+	font-size: 25px;
+	color: #FFF;
+	text-decoration: none;	
+}
+
+.action-button-inactive 
+{
+	position: relative;
+	padding: 10px 40px;
+  	margin: 0px 10px 10px 0px;
+  	float: left;
+	border-radius: 10px;
+	opacity: 0.5;
 	font-family: 'Pacifico', cursive;
 	font-size: 25px;
 	color: #FFF;
@@ -54,7 +68,6 @@ body
 {
 	background-color: #D3D3D3;
 	color: #ffffff;
-	opacity: 0.5;
 	border-bottom: 5px solid #808080;
 	text-shadow: 0px -2px #808080;
 }
